@@ -1,0 +1,2058 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'ko' Physical Memory: 32702 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/chip's adventure/Test_1/My project (4)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2402
+Successfully changed project path to: H:/chip's adventure/Test_1/My project (4)
+H:/chip's adventure/Test_1/My project (4)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.27 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/chip's adventure/Test_1/My project (4)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002322 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.43 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.574 seconds
+Domain Reload Profiling:
+	ReloadAssembly (574ms)
+		BeginReloadAssembly (54ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (448ms)
+			LoadAssemblies (52ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (172ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.58 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.083 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1084ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (885ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (297ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (338ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2321 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.3 MB.
+System memory in use after: 103.5 MB.
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 2702.
+Total: 2.852000 ms (FindLiveObjects: 0.179800 ms CreateObjectMapping: 0.100700 ms MarkObjects: 2.507200 ms  DeleteObjects: 0.063300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Plugins/FMOD/src/fmod.cs
+  artifactKey: Guid(bd0d0c955caff8940ac1667ee36dd4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/fmod.cs using Guid(bd0d0c955caff8940ac1667ee36dd4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f96804e04252c4e89242cb4c96e9e3') in 0.073443 seconds 
+  Import took 0.077249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001711 seconds.
+  path: Assets/Plugins/FMOD/images/TickGreen.png
+  artifactKey: Guid(27533226416c4f549b9bec9c024100f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TickGreen.png using Guid(27533226416c4f549b9bec9c024100f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc17bf2c0b1bc70fb598164a2eb0dda4') in 0.039335 seconds 
+  Import took 0.042949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055409 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EditorEventRef.cs
+  artifactKey: Guid(ceb653cd98e289a4e8697a1af55201f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EditorEventRef.cs using Guid(ceb653cd98e289a4e8697a1af55201f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df81dbba2a2a10fe378e36b4519d1c0') in 0.005051 seconds 
+  Import took 0.008273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096086 seconds.
+  path: Assets/Plugins/FMOD/images/StudioIcon.png
+  artifactKey: Guid(a4edfa5854cdec34b98b1c55f0562bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/StudioIcon.png using Guid(a4edfa5854cdec34b98b1c55f0562bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd837e01b90b7bce71e8a0c45062c13') in 0.008707 seconds 
+  Import took 0.011942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025166 seconds.
+  path: Assets/Plugins/FMOD/src/fmod_studio.cs
+  artifactKey: Guid(ae7eb0b6a2bff364b9c1fae52173e74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/fmod_studio.cs using Guid(ae7eb0b6a2bff364b9c1fae52173e74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f03d9ce3fbc538b7571d7926ee3c75') in 0.004384 seconds 
+  Import took 0.007602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020558 seconds.
+  path: Assets/Plugins/FMOD/images/SearchIconBlack.png
+  artifactKey: Guid(99471facfde9fb84dbe4a81ad570ebce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/SearchIconBlack.png using Guid(99471facfde9fb84dbe4a81ad570ebce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbe61f21b1c2c37904bac08232d72d8') in 0.007954 seconds 
+  Import took 0.011310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004885 seconds.
+  path: Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
+  artifactKey: Guid(94cd94dac442be343a14c1f520efdb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset using Guid(94cd94dac442be343a14c1f520efdb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f052d4f53c76e5f23bc70a4eb23c69') in 0.007458 seconds 
+  Import took 0.010657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006262 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libfmodstudio.so
+  artifactKey: Guid(9063aa11b1fcfcf4cb6030a076d14a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libfmodstudio.so using Guid(9063aa11b1fcfcf4cb6030a076d14a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54388d9c5d6cd1bd1c37f825d087d6e') in 0.006073 seconds 
+  Import took 0.009456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045156 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EventReferenceUpdater.cs
+  artifactKey: Guid(0b58df65bd3bb6649801b24a7a942ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EventReferenceUpdater.cs using Guid(0b58df65bd3bb6649801b24a7a942ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d5ac2646109a361c8842e64535180d') in 0.004835 seconds 
+  Import took 0.008201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068071 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/BankRefreshWindow.cs
+  artifactKey: Guid(40a1ca322d08d704eacd449863718b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/BankRefreshWindow.cs using Guid(40a1ca322d08d704eacd449863718b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6502faa049365991199e68df719b835') in 0.004581 seconds 
+  Import took 0.007746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016650 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Editor/FMODUnityResonanceEditor.asmdef
+  artifactKey: Guid(194213485063a984b98ce9410892267a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Editor/FMODUnityResonanceEditor.asmdef using Guid(194213485063a984b98ce9410892267a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2b40e7c3e9b1e2446ef3933770f334') in 0.005869 seconds 
+  Import took 0.009062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052874 seconds.
+  path: Assets/Plugins/FMOD/Cache/Editor
+  artifactKey: Guid(3cd2ea0fa1c31a94bae9f01ed810536c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/Cache/Editor using Guid(3cd2ea0fa1c31a94bae9f01ed810536c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e92076e726fe8029008513579038b82') in 0.004137 seconds 
+  Import took 0.007315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005282 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86/resonanceaudio.dll
+  artifactKey: Guid(b2c11f1e03736f748bd861d7bf4f8952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86/resonanceaudio.dll using Guid(b2c11f1e03736f748bd861d7bf4f8952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb40aba651ea2d41a225da4097a6271') in 0.006221 seconds 
+  Import took 0.009348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007822 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/MacOS
+  artifactKey: Guid(242a6e2e6d91dcf45a7ef7bdd7bfe227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/MacOS using Guid(242a6e2e6d91dcf45a7ef7bdd7bfe227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be561b192e0a4b2dfca13d2c06170f3d') in 0.004164 seconds 
+  Import took 0.007301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132588 seconds.
+  path: Assets/char
+  artifactKey: Guid(4d4ead6d5c3d3a1409bcfcfaab22d412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/char using Guid(4d4ead6d5c3d3a1409bcfcfaab22d412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ef2933bef1dd3780253ca5602a2286') in 0.010609 seconds 
+  Import took 0.018625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031843 seconds.
+  path: Assets/Plugins/FMOD/src/StudioGlobalParameterTrigger.cs
+  artifactKey: Guid(9b0e04e2572f9a940a47465f6f3c2f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/StudioGlobalParameterTrigger.cs using Guid(9b0e04e2572f9a940a47465f6f3c2f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c15081a14869deaea31b0530531996') in 0.004572 seconds 
+  Import took 0.007721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004569 seconds.
+  path: Assets/char/Aniamtion/jump.anim
+  artifactKey: Guid(a6fdf3b62c5b8de418436d0859a8b671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/char/Aniamtion/jump.anim using Guid(a6fdf3b62c5b8de418436d0859a8b671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335616d20927c1435ea3b0586dfebfe9') in 0.006256 seconds 
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002905 seconds.
+  path: Assets/Map_resource
+  artifactKey: Guid(373c039c5e3327243acd3b945eaee6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map_resource using Guid(373c039c5e3327243acd3b945eaee6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a365d2ee9eb422a2bd8ffad46ae93b4b') in 0.004404 seconds 
+  Import took 0.007762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005058 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmod.so
+  artifactKey: Guid(f71c8f89be7646142baed6d482d5e89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmod.so using Guid(f71c8f89be7646142baed6d482d5e89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69823e762f067956633ae5e147f670e3') in 0.004862 seconds 
+  Import took 0.007996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008676 seconds.
+  path: Assets/Plugins/FMOD/images/LabeledParameterIcon.png
+  artifactKey: Guid(b4d696e5c0be6f44bb2f02aa41320656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/LabeledParameterIcon.png using Guid(b4d696e5c0be6f44bb2f02aa41320656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14371a10a22d75228f72a257487753e6') in 0.007607 seconds 
+  Import took 0.010836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108956 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/Info.plist
+  artifactKey: Guid(124cb8209e76a6f4a842a54e4f1dc4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/Info.plist using Guid(124cb8209e76a6f4a842a54e4f1dc4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6f121b13219555c24def8326884675') in 0.006625 seconds 
+  Import took 0.009850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005054 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EditorUtils.cs
+  artifactKey: Guid(2bb4068641d1f71478f95a9b73533f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EditorUtils.cs using Guid(2bb4068641d1f71478f95a9b73533f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5ac7db819ed806839fd308c9650695') in 0.004390 seconds 
+  Import took 0.007602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078148 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/LogViewer.cs
+  artifactKey: Guid(255133e2dd4fbd9449ba729ddbb2f77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/LogViewer.cs using Guid(255133e2dd4fbd9449ba729ddbb2f77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22504ddc66940098d0014a4bd72cb46a') in 0.004490 seconds 
+  Import took 0.007730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014497 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginsimulator.a
+  artifactKey: Guid(26235204f425d41479c8e41c99e96f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginsimulator.a using Guid(26235204f425d41479c8e41c99e96f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627defc9a6cbffa7207592ddf43bf551') in 0.006079 seconds 
+  Import took 0.009336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013723 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86_64/resonanceaudio.dll
+  artifactKey: Guid(4c8fb9b92ea2eae4f9112a3941c4f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86_64/resonanceaudio.dll using Guid(4c8fb9b92ea2eae4f9112a3941c4f128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18381294f52c805bae826874af10829') in 0.001536 seconds 
+  Import took 0.004679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011976 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/src
+  artifactKey: Guid(03be3f097a522854dbe1d585023925fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/src using Guid(03be3f097a522854dbe1d585023925fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70697651be3c8b56017966ca77d67d5') in 0.004319 seconds 
+  Import took 0.007797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002827 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib
+  artifactKey: Guid(328160e4bc4e8b74296f830386ae016b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib using Guid(328160e4bc4e8b74296f830386ae016b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2052f1884d9b32f837f97116d4601f53') in 0.004137 seconds 
+  Import took 0.007425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004752 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EditorSettings.cs
+  artifactKey: Guid(3c9e3e2137498d343a2e31906a12dec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EditorSettings.cs using Guid(3c9e3e2137498d343a2e31906a12dec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527763699b9c3c3689fb225070ec4bd1') in 0.004653 seconds 
+  Import took 0.007938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018066 seconds.
+  path: Assets/Plugins/FMOD/src/FMODRuntimeManagerOnGUIHelper.cs
+  artifactKey: Guid(4417faacebce0de4fbde25ec23055cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/FMODRuntimeManagerOnGUIHelper.cs using Guid(4417faacebce0de4fbde25ec23055cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023a63112990ef16d0bca9bf57c8d04e') in 0.004821 seconds 
+  Import took 0.008095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002851 seconds.
+  path: Assets/Plugins/FMOD/Resources
+  artifactKey: Guid(22abc0e010b698f4088c98d05b52b575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/Resources using Guid(22abc0e010b698f4088c98d05b52b575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3facb504a4478006804697953398196d') in 0.004312 seconds 
+  Import took 0.007513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008851 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioBankLoaderEditor.cs
+  artifactKey: Guid(f7f61e03a350e1e428dba6c562f3d64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioBankLoaderEditor.cs using Guid(f7f61e03a350e1e428dba6c562f3d64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fd187f2be3c128e1e13a2adbad2540') in 0.004347 seconds 
+  Import took 0.007615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072244 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Flying eye/Flyingeye_anim.anim
+  artifactKey: Guid(8b362eb5fc8a0ae49b152c162d5540df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Flying eye/Flyingeye_anim.anim using Guid(8b362eb5fc8a0ae49b152c162d5540df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77809d9964c8217b9d8363b08bc9546c') in 0.005453 seconds 
+  Import took 0.008655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005191 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodstudio.dll
+  artifactKey: Guid(a7c1eb40b6cc0b8468c161b5ba9a6df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodstudio.dll using Guid(a7c1eb40b6cc0b8468c161b5ba9a6df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2da7059c1c816ec7a90968aadaa0d1') in 0.004344 seconds 
+  Import took 0.007529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085330 seconds.
+  path: Assets/Plugins/FMOD/src/fmod_dsp.cs
+  artifactKey: Guid(b7b10c26cf550794183b926ffae615a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/fmod_dsp.cs using Guid(b7b10c26cf550794183b926ffae615a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e245b22fd761ba8a95df3879a0e504f4') in 0.007462 seconds 
+  Import took 0.011965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104777 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/_CodeSignature/CodeResources
+  artifactKey: Guid(468c4396e97f07540a261f56433604b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/_CodeSignature/CodeResources using Guid(468c4396e97f07540a261f56433604b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767e4bd50f58526a4352e243b89fe9bf') in 0.004813 seconds 
+  Import took 0.007950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007522 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/MacOS/fmodstudioL
+  artifactKey: Guid(421566da2f736c940b9e0cc93c47c4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/MacOS/fmodstudioL using Guid(421566da2f736c940b9e0cc93c47c4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b968ae491aae3aeb53805f842b91179a') in 0.005097 seconds 
+  Import took 0.008393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031941 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodstudioL.dll
+  artifactKey: Guid(5476dd86ee3260f4bb2283aef1d9a883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodstudioL.dll using Guid(5476dd86ee3260f4bb2283aef1d9a883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ba9b91fbec88d6b4618a23711be761') in 0.001646 seconds 
+  Import took 0.004866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014304 seconds.
+  path: Assets/Plugins/FMOD/images/Wrench.png
+  artifactKey: Guid(507cd805ad331e54cb9e9cab5a9270b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/Wrench.png using Guid(507cd805ad331e54cb9e9cab5a9270b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046a1cdbc9fa84de21552c7bfb3b82a8') in 0.007700 seconds 
+  Import took 0.010965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004952 seconds.
+  path: Assets/Plugins/FMOD/images/TransportStopButtonOn.png
+  artifactKey: Guid(eab53cb0959d1244aadeacf8b76c755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TransportStopButtonOn.png using Guid(eab53cb0959d1244aadeacf8b76c755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e3ffc100c6d33b59e2d01e8954fab4') in 0.008393 seconds 
+  Import took 0.011598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004926 seconds.
+  path: Assets/Plugins/FMOD/src/RuntimeManager.cs
+  artifactKey: Guid(5e5fb8ce07f0ce84b9d1852869527ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/RuntimeManager.cs using Guid(5e5fb8ce07f0ce84b9d1852869527ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bc5f702920a615a2d01788fec13271') in 0.004417 seconds 
+  Import took 0.007664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011361 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/FileReorganizer.cs
+  artifactKey: Guid(3349615af02d64e4e8d1026e228c4a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/FileReorganizer.cs using Guid(3349615af02d64e4e8d1026e228c4a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a279a130abead8b89c67fd0bd435358e') in 0.004276 seconds 
+  Import took 0.007448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004696 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c071e712c24a520bbcb28f5a7db31d') in 0.004755 seconds 
+  Import took 0.007957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004630 seconds.
+  path: Assets/Plugins/FMOD/src/EventHandler.cs
+  artifactKey: Guid(a28d1e1a42561ed4f8d44293dab99079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/EventHandler.cs using Guid(a28d1e1a42561ed4f8d44293dab99079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a66266874c413ddc77c33fc4805468') in 0.004601 seconds 
+  Import took 0.008057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080192 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodstudio.so
+  artifactKey: Guid(a20d361b085100b4997c4e5b0b83af31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodstudio.so using Guid(a20d361b085100b4997c4e5b0b83af31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ea2cd03251310d652896314efad5d3') in 0.001819 seconds 
+  Import took 0.004994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004778 seconds.
+  path: Assets/Plugins/FMOD/images/LevelMeter.png
+  artifactKey: Guid(21e7a3d41a926364a8b9a6704ebe80d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/LevelMeter.png using Guid(21e7a3d41a926364a8b9a6704ebe80d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c295964643c4a2f2e2637acef1492e') in 0.010106 seconds 
+  Import took 0.013336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003196 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac
+  artifactKey: Guid(5dd2bfa8b9eb6874b9e50b79490891a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac using Guid(5dd2bfa8b9eb6874b9e50b79490891a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9d2e8eb070ee59c00624e2b9c8b0e4') in 0.004648 seconds 
+  Import took 0.007824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006384 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudio.dll
+  artifactKey: Guid(1550e5c882b8c2445a1f14f8b1b23d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudio.dll using Guid(1550e5c882b8c2445a1f14f8b1b23d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f52cfcd9e9bb20311c48e1ff221af3') in 0.001417 seconds 
+  Import took 0.027790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006759 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/MacOS/fmodstudio
+  artifactKey: Guid(c5e926e235023354fb6b94bc154a8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/MacOS/fmodstudio using Guid(c5e926e235023354fb6b94bc154a8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08deaaa9dc89cfcd5b78d89329b88f4e') in 0.002735 seconds 
+  Import took 0.005930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012191 seconds.
+  path: Assets/Plugins/FMOD/src/AutomatableSlots.cs
+  artifactKey: Guid(9c13d4e62f5f7b44bb33162cbf29a9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/AutomatableSlots.cs using Guid(9c13d4e62f5f7b44bb33162cbf29a9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49166d2b6ea246ce45b262e41be0cd0') in 0.004370 seconds 
+  Import took 0.007601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026008 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FmodResonanceAudio.cs
+  artifactKey: Guid(6794e6301575a445d8588930a0752568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FmodResonanceAudio.cs using Guid(6794e6301575a445d8588930a0752568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53eb25cba739033c6ecb4be20d408ca') in 0.004516 seconds 
+  Import took 0.007711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004579 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/FMODEventPlayableEditor.cs
+  artifactKey: Guid(fa325be8441506c4bb1462c8333ccce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/FMODEventPlayableEditor.cs using Guid(fa325be8441506c4bb1462c8333ccce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d0dc158b740769c006f5cf2f77df0a') in 0.004289 seconds 
+  Import took 0.007524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008929 seconds.
+  path: Assets/Plugins/FMOD/src/EventRefAttribute.cs
+  artifactKey: Guid(1b29a1189268c3b47aa2ec4b96a9e7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/EventRefAttribute.cs using Guid(1b29a1189268c3b47aa2ec4b96a9e7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dcade676fb991977acf2e71beb9bca') in 0.004318 seconds 
+  Import took 0.007502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004552 seconds.
+  path: Assets/Plugins/FMOD/src/EventReference.cs
+  artifactKey: Guid(1b1e4da3fb15e7a45a8f104b7d0fd6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/EventReference.cs using Guid(1b1e4da3fb15e7a45a8f104b7d0fd6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b00cfbc9644dcc93e31c5f820d61bb9') in 0.004248 seconds 
+  Import took 0.007394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004991 seconds.
+  path: Assets/Plugins/FMOD/images/TransportPlayButtonOff.png
+  artifactKey: Guid(29258b1336a580946bc144df00b74ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TransportPlayButtonOff.png using Guid(29258b1336a580946bc144df00b74ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae64e8214ebfe77cb371a021c2408bc') in 0.007532 seconds 
+  Import took 0.010760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004963 seconds.
+  path: Assets/Plugins/FMOD/images/NotFound.png
+  artifactKey: Guid(1138ab068176f29499337d7a73dfecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/NotFound.png using Guid(1138ab068176f29499337d7a73dfecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b3853d6f0dca4fbf3d5d8c5da40c6f') in 0.007586 seconds 
+  Import took 0.010792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005141 seconds.
+  path: Assets/Plugins/FMOD/src/StudioParameterTrigger.cs
+  artifactKey: Guid(744a208c85da6d04c861d81b992e4ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/StudioParameterTrigger.cs using Guid(744a208c85da6d04c861d81b992e4ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced86f5c28a4322611141828821cca2c') in 0.004452 seconds 
+  Import took 0.007722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021203 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FMODUnityResonance.asmdef
+  artifactKey: Guid(44d09cf463b68274884d8a3c8a94e528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FMODUnityResonance.asmdef using Guid(44d09cf463b68274884d8a3c8a94e528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c148f880db0f0bd97ec302b792ca427') in 0.004462 seconds 
+  Import took 0.007620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002750 seconds.
+  path: Assets/Plugins/FMOD/platforms
+  artifactKey: Guid(8b617f082dd1f0645bde3b4ff3cbc25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms using Guid(8b617f082dd1f0645bde3b4ff3cbc25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f7247ed1cdb6b31b9cc07f5f867165') in 0.004103 seconds 
+  Import took 0.007321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075056 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Skeleton/Skeleton_anim.anim
+  artifactKey: Guid(e34540a9147cd2c47b85b20ea9470721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Skeleton/Skeleton_anim.anim using Guid(e34540a9147cd2c47b85b20ea9470721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40c6e4007bef55fdec2f51c67167470') in 0.005100 seconds 
+  Import took 0.008274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005116 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodL.so
+  artifactKey: Guid(0e95029f987dfa248934eaa63745b504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodL.so using Guid(0e95029f987dfa248934eaa63745b504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5d3a97ab95eeb8100a93ecccc02b90') in 0.004904 seconds 
+  Import took 0.008094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047732 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/_CodeSignature/CodeResources
+  artifactKey: Guid(a7e866ce49bf582479f3675646324389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/_CodeSignature/CodeResources using Guid(a7e866ce49bf582479f3675646324389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cc7345b8cbbd9f99c234c948c00e6a') in 0.001721 seconds 
+  Import took 0.004869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014484 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodstudioL.so
+  artifactKey: Guid(0975b093811db4e4e9e67bc483ad2299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodstudioL.so using Guid(0975b093811db4e4e9e67bc483ad2299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76df7dfd26287604e8980a55874a0a61') in 0.004727 seconds 
+  Import took 0.007941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004629 seconds.
+  path: Assets/Plugins/FMOD/Resources/FMODStudioSettings.asset
+  artifactKey: Guid(4be324632f1259a4bbfd66011d441543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/Resources/FMODStudioSettings.asset using Guid(4be324632f1259a4bbfd66011d441543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8cb51cc97e61029670ad17bb05094d') in 0.037717 seconds 
+  Import took 0.040954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005666 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodL.so
+  artifactKey: Guid(54236e4c5b88f494598efb4d226b44f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86/libfmodL.so using Guid(54236e4c5b88f494598efb4d226b44f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81521e1dfc161927fd103225801e77a4') in 0.001776 seconds 
+  Import took 0.004938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003220 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/src
+  artifactKey: Guid(fb8b6c816014ed44ebc2db5f8dc5e03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/src using Guid(fb8b6c816014ed44ebc2db5f8dc5e03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b525cf9775bee566046572d6679f95a') in 0.001562 seconds 
+  Import took 0.004862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006029 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodstudioL.dll
+  artifactKey: Guid(43ab9a198caf2d841b813eb81e02486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodstudioL.dll using Guid(43ab9a198caf2d841b813eb81e02486d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4887591ec8a976381bffcd39d19f40cb') in 0.001481 seconds 
+  Import took 0.004528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013608 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86/libresonanceaudio.so
+  artifactKey: Guid(5c35d7fa6769b114aa63172aaf1fd782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86/libresonanceaudio.so using Guid(5c35d7fa6769b114aa63172aaf1fd782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515d26321c94b9eb9eb7818af03861ac') in 0.005217 seconds 
+  Import took 0.008483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025620 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginL.a
+  artifactKey: Guid(982978af662f9ea43b7979c7f61bbad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginL.a using Guid(982978af662f9ea43b7979c7f61bbad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bde09ad61415ae25851123b8a30c520') in 0.004781 seconds 
+  Import took 0.007937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002889 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib
+  artifactKey: Guid(faacb4351a5f83845b1cea9370b4d244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib using Guid(faacb4351a5f83845b1cea9370b4d244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38797764bcc6e5599564fa1bd83e20d1') in 0.001446 seconds 
+  Import took 0.005170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002952 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib
+  artifactKey: Guid(98f2ca7007fe2074d953e949a6fdf971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib using Guid(98f2ca7007fe2074d953e949a6fdf971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07895f54ace36478410af32c428af435') in 0.001625 seconds 
+  Import took 0.004993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003033 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86_64
+  artifactKey: Guid(8105cca2fc4eb2e488e010278c3ea1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86_64 using Guid(8105cca2fc4eb2e488e010278c3ea1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81729c03261a801f70a9c96583a3b5a') in 0.004275 seconds 
+  Import took 0.007631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005221 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmod.dll
+  artifactKey: Guid(39f9a761a2a032045a853a069db31081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmod.dll using Guid(39f9a761a2a032045a853a069db31081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b021c5ff1c6ef17a81d745b037554369') in 0.004323 seconds 
+  Import took 0.007597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004497 seconds.
+  path: Assets/Plugins/FMOD/src/StudioBankLoader.cs
+  artifactKey: Guid(b9468c5f457ace64f8d4df6d642b107f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/StudioBankLoader.cs using Guid(b9468c5f457ace64f8d4df6d642b107f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4bab50a57d1026f93571c4c5bee89d4') in 0.004436 seconds 
+  Import took 0.007719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097848 seconds.
+  path: Assets/Plugins/FMOD/src/ParamRefAttribute.cs
+  artifactKey: Guid(7ae6224668d1647429723f89e10d593f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/ParamRefAttribute.cs using Guid(7ae6224668d1647429723f89e10d593f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb0fec5e1cdb21cff815c83a0467645') in 0.004415 seconds 
+  Import took 0.007879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012548 seconds.
+  path: Assets/Plugins/FMOD/src/StudioListener.cs
+  artifactKey: Guid(86c6556701af9e04380698b89f691b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/StudioListener.cs using Guid(86c6556701af9e04380698b89f691b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5252d01b229023338219eef89fc7fbda') in 0.004686 seconds 
+  Import took 0.007879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062562 seconds.
+  path: Assets/Plugins/FMOD/src/PlatformMobileLow.cs
+  artifactKey: Guid(3abeb1429547a134480f4f2f1efc7e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/PlatformMobileLow.cs using Guid(3abeb1429547a134480f4f2f1efc7e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1718bdff7151f0a076cc7d0312db99') in 0.004479 seconds 
+  Import took 0.007889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014667 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EventRefDrawer.cs
+  artifactKey: Guid(29a86a77bf7568e499243d9b47b7e88e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EventRefDrawer.cs using Guid(29a86a77bf7568e499243d9b47b7e88e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ea435a4c88f3d3689539036ef62292') in 0.004882 seconds 
+  Import took 0.008232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009567 seconds.
+  path: Assets/Plugins/FMOD/src/fmod_errors.cs
+  artifactKey: Guid(6e0992509b0077e479d2da05c8f52eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/fmod_errors.cs using Guid(6e0992509b0077e479d2da05c8f52eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1dffe41a70df3aa9332e82b828fa95') in 0.004787 seconds 
+  Import took 0.008183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030415 seconds.
+  path: Assets/Plugins/FMOD/images/EventIcon.png
+  artifactKey: Guid(a602f206f9cb31f439c79a2fe23687c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/EventIcon.png using Guid(a602f206f9cb31f439c79a2fe23687c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d109c93dbe3905ad24b221806fc0b38') in 0.010929 seconds 
+  Import took 0.014426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059139 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/_CodeSignature/CodeResources
+  artifactKey: Guid(e84a173ce5cfbbe4b8d3cf667e97df31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/_CodeSignature/CodeResources using Guid(e84a173ce5cfbbe4b8d3cf667e97df31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d8d8255c1ff84064732f1f22abe5a4') in 0.001956 seconds 
+  Import took 0.005359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004841 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/BankRefDrawer.cs
+  artifactKey: Guid(49ebe6fea5e4bfc4bb492bba062b2afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/BankRefDrawer.cs using Guid(49ebe6fea5e4bfc4bb492bba062b2afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644d75a9a3b30aac83db0f3a6a8150cc') in 0.004482 seconds 
+  Import took 0.007723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002895 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a
+  artifactKey: Guid(49cc70c20e469a541a7974182c9f588a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a using Guid(49cc70c20e469a541a7974182c9f588a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e52952631da7a2dcf622f2cae764019') in 0.004660 seconds 
+  Import took 0.007940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004505 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioEventEmitterEditor.cs
+  artifactKey: Guid(2b044fd4ebf2c42468e1f41d5e2b879c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioEventEmitterEditor.cs using Guid(2b044fd4ebf2c42468e1f41d5e2b879c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b560a86b43561f3b3c977e0c8e688a') in 0.004542 seconds 
+  Import took 0.007785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013480 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EditorBankRef.cs
+  artifactKey: Guid(c18180ecb35941f4682ae60107b85b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EditorBankRef.cs using Guid(c18180ecb35941f4682ae60107b85b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4743c8aaa69e9c8aa6f5b0c2094569b') in 0.004498 seconds 
+  Import took 0.007971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003037 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib
+  artifactKey: Guid(bf8c331b8ccdb944fa925884d9ffa69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib using Guid(bf8c331b8ccdb944fa925884d9ffa69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6eed722771d06499622002eb0c3b35f') in 0.001378 seconds 
+  Import took 0.004727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007333 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/fmod.jar
+  artifactKey: Guid(cba124c31f7e10640bc2ff9464f8ac15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/fmod.jar using Guid(cba124c31f7e10640bc2ff9464f8ac15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87924b122dd7c05d553d13331c92431c') in 0.006475 seconds 
+  Import took 0.009722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017680 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmod.dll
+  artifactKey: Guid(68f9a982a926833498d438319388a455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmod.dll using Guid(68f9a982a926833498d438319388a455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16912bbbb225634fe208f50b5947a9b') in 0.001645 seconds 
+  Import took 0.004918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041143 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio
+  artifactKey: Guid(ce39533effc93ba409e337ba540bf789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio using Guid(ce39533effc93ba409e337ba540bf789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b4da271d297d3e06f8c38d707f68c4') in 0.007147 seconds 
+  Import took 0.012921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017771 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libresonanceaudio.so
+  artifactKey: Guid(fb0aabfc61c4c1548ac6990286c84327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libresonanceaudio.so using Guid(fb0aabfc61c4c1548ac6990286c84327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7deb345a21de87040b496bd587848841') in 0.002015 seconds 
+  Import took 0.005194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002778 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib
+  artifactKey: Guid(4ad89dfcd36045640a8e902f16b09363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib using Guid(4ad89dfcd36045640a8e902f16b09363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f3a88d6c1a2291176751dc61c202dd') in 0.001443 seconds 
+  Import took 0.004614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094251 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounityplugin.a
+  artifactKey: Guid(4abc247d0f34143ec95396c7b6bec6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounityplugin.a using Guid(4abc247d0f34143ec95396c7b6bec6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8252424b76b71e4bd4e40f2ba21f4395') in 0.005079 seconds 
+  Import took 0.008316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010834 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents
+  artifactKey: Guid(a5e43a852000e2443a14695f63ceffd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents using Guid(a5e43a852000e2443a14695f63ceffd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f2d8446d1501e4392964aa149d4788') in 0.004475 seconds 
+  Import took 0.007820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004922 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/BankRefresher.cs
+  artifactKey: Guid(e564c074e96205b49b91ff80126983c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/BankRefresher.cs using Guid(e564c074e96205b49b91ff80126983c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c1620c8a4cbec097b276f8456a2a79') in 0.005159 seconds 
+  Import took 0.008731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023360 seconds.
+  path: Assets/Plugins/FMOD/images
+  artifactKey: Guid(27e5eef2bd66ffe429eebdc4579b7231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images using Guid(27e5eef2bd66ffe429eebdc4579b7231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2902f2b4d78ece3230086a2edabffb89') in 0.004712 seconds 
+  Import took 0.008063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018356 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/_CodeSignature
+  artifactKey: Guid(0731b3df0eb593f4ebe376b7a4fe7b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/_CodeSignature using Guid(0731b3df0eb593f4ebe376b7a4fe7b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1befea27600e2568ee4527c12b3f42f6') in 0.004794 seconds 
+  Import took 0.008161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066257 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/src
+  artifactKey: Guid(eb7a0bd9281687744b74c40dd220a50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/src using Guid(eb7a0bd9281687744b74c40dd220a50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abef3f3b56359327ed5c7b550db3ffc9') in 0.001533 seconds 
+  Import took 0.004935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004733 seconds.
+  path: Assets/Plugins/FMOD/src/ParamRef.cs
+  artifactKey: Guid(00e1a9817a5d9844796d7c313b1ab197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/ParamRef.cs using Guid(00e1a9817a5d9844796d7c313b1ab197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03d6672aa14508bb50ecd8e91e27551') in 0.004649 seconds 
+  Import took 0.007939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003273 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib/2.0.19
+  artifactKey: Guid(54847690d6c23734ca89652cb5ad8efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib/2.0.19 using Guid(54847690d6c23734ca89652cb5ad8efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1f75c6b42414dedaa893efe1d66f8e') in 0.004263 seconds 
+  Import took 0.007663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002840 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f4b08c742ea49204693945dbf87e9756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f4b08c742ea49204693945dbf87e9756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a78524d43f770c7624222e387b67ff1') in 0.022700 seconds 
+  Import took 0.026014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003079 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents
+  artifactKey: Guid(e060bc41cf653f7439745f013bd21660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents using Guid(e060bc41cf653f7439745f013bd21660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4eb5e673c91278028362f7722a5ba1') in 0.001435 seconds 
+  Import took 0.004689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004697 seconds.
+  path: Assets/Plugins/FMOD/images/CrossYellow.png
+  artifactKey: Guid(348d2265b48c67342a4db2a7062813fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/CrossYellow.png using Guid(348d2265b48c67342a4db2a7062813fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f369b4b216edbe7ccce65e3a1ecf12') in 0.009378 seconds 
+  Import took 0.012597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003037 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib
+  artifactKey: Guid(b177b3448f6e68e4b9f8c04bee3914aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib using Guid(b177b3448f6e68e4b9f8c04bee3914aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f966002c2845fb8623718d87a8197e') in 0.001463 seconds 
+  Import took 0.004978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030953 seconds.
+  path: Assets/Plugins/FMOD/src/FMODEventPlayable.cs
+  artifactKey: Guid(987a467495df9d942b56b1b51381d095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/FMODEventPlayable.cs using Guid(987a467495df9d942b56b1b51381d095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420415e4273ec9eb851f3fe4aca9d4ea') in 0.004510 seconds 
+  Import took 0.007808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004388 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/Info.plist
+  artifactKey: Guid(fdf09afde87e8e440a6e331d1850add6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/Info.plist using Guid(fdf09afde87e8e440a6e331d1850add6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177241869bd2c93780f5658553b210c9') in 0.002011 seconds 
+  Import took 0.005194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005308 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodL.dll
+  artifactKey: Guid(d15f9d3e1089b114a8f625e994fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodL.dll using Guid(d15f9d3e1089b114a8f625e994fea839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e116e8ed5c9db6c63fdcccb7d8fe30bc') in 0.004311 seconds 
+  Import took 0.007539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021766 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/SetupWizard.cs
+  artifactKey: Guid(aa9a0c70fef01fb43b8eff668bfa0e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/SetupWizard.cs using Guid(aa9a0c70fef01fb43b8eff668bfa0e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c2f8821139b0a91e424544066c85fe') in 0.004393 seconds 
+  Import took 0.007566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139092 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Flying eye/Flight_0.controller
+  artifactKey: Guid(17416659cc086114ba98756fe74c76f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Flying eye/Flight_0.controller using Guid(17416659cc086114ba98756fe74c76f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedcbf4238b47956b74aac490b47d574') in 0.008545 seconds 
+  Import took 0.012216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003071 seconds.
+  path: Assets/Plugins/FMOD/Cache
+  artifactKey: Guid(41bbe04561aba974f81c2c1d6abdc982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/Cache using Guid(41bbe04561aba974f81c2c1d6abdc982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ede6f14688e4dae5373beb0836bd88b') in 0.006034 seconds 
+  Import took 0.011534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022927 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86
+  artifactKey: Guid(03f590b69e4afe14fa1c73f89a98a203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86 using Guid(03f590b69e4afe14fa1c73f89a98a203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bcd6f0b8885bdf3b19411515c8bdfe') in 0.004439 seconds 
+  Import took 0.007740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002693 seconds.
+  path: Assets/Plugins/FMOD/src
+  artifactKey: Guid(2994e348941404549b266423c2ac329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src using Guid(2994e348941404549b266423c2ac329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e602ef9ed5600d70361699ccb694fc9') in 0.001523 seconds 
+  Import took 0.004976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002833 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/MacOS
+  artifactKey: Guid(e168cadf1fcec7246933078512a087f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/MacOS using Guid(e168cadf1fcec7246933078512a087f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e0889688fd3399953ccfeedb655009a') in 0.001560 seconds 
+  Import took 0.004881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020242 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib/2.0.19/libfmodstudio.a
+  artifactKey: Guid(18569240b868e8b44a20d32b2df12f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib/2.0.19/libfmodstudio.a using Guid(18569240b868e8b44a20d32b2df12f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcf2b6a78374d9c5c9498d0211a8d63') in 0.002471 seconds 
+  Import took 0.005847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004851 seconds.
+  path: Assets/Plugins/FMOD/images/TransportPlayButtonOn.png
+  artifactKey: Guid(2d777c9a14189d241aea1afeeeff448c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TransportPlayButtonOn.png using Guid(2d777c9a14189d241aea1afeeeff448c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cce1f9ebba348a7e49dc7aa3590d841') in 0.008569 seconds 
+  Import took 0.012148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003402 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/lib
+  artifactKey: Guid(b28687fd18577ce4c838b916a4ed5c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/lib using Guid(b28687fd18577ce4c838b916a4ed5c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5d3c82e8bb8b73873bd41cae642683') in 0.001582 seconds 
+  Import took 0.004998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004805 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioListenerEditor.cs
+  artifactKey: Guid(847f8505c25f5cf42adba68a26f2cda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioListenerEditor.cs using Guid(847f8505c25f5cf42adba68a26f2cda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11323d8355256b7d4c777412a64dc165') in 0.004561 seconds 
+  Import took 0.007865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004820 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/ListView.cs
+  artifactKey: Guid(1573bef36bd46e34f8f2b4dad628a461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/ListView.cs using Guid(1573bef36bd46e34f8f2b4dad628a461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d19b7677567825517b06bae2045af87') in 0.005059 seconds 
+  Import took 0.008274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004926 seconds.
+  path: Assets/Plugins/FMOD/images/FolderIconClosed.png
+  artifactKey: Guid(70efeb6d97126f843b30b8ed62d18a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/FolderIconClosed.png using Guid(70efeb6d97126f843b30b8ed62d18a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4653bf76dd2cd9d49f8d0f5ebb65e8') in 0.009168 seconds 
+  Import took 0.012645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003792 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/src
+  artifactKey: Guid(29af24c23c3906b44bbaeaa0c832f235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/src using Guid(29af24c23c3906b44bbaeaa0c832f235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c3a1fa77eaa85d667acad778269948') in 0.001629 seconds 
+  Import took 0.005087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003149 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/lib
+  artifactKey: Guid(3ba8f748d2f09ff46a33e76a54eb551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/lib using Guid(3ba8f748d2f09ff46a33e76a54eb551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014ff90fd8d8c8e3fd9ea9282706c044') in 0.001594 seconds 
+  Import took 0.004898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052149 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/src/PlatformWebGL.cs
+  artifactKey: Guid(b87314b32fbe18943af496e4b47136c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/src/PlatformWebGL.cs using Guid(b87314b32fbe18943af496e4b47136c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d645cf334532ba156bd2af22c186693') in 0.004697 seconds 
+  Import took 0.008262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005247 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmod.dll
+  artifactKey: Guid(907f4331811d73442b58d50627a775d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmod.dll using Guid(907f4331811d73442b58d50627a775d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a09b5890ef50f30a0f1e6a34a0a4358') in 0.001871 seconds 
+  Import took 0.005046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004791 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/src/PlatformMac.cs
+  artifactKey: Guid(d92d0baf34dae0e4ea032a42bd6107c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/src/PlatformMac.cs using Guid(d92d0baf34dae0e4ea032a42bd6107c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce8543963e04fde27ffeaa87f331276') in 0.004783 seconds 
+  Import took 0.008122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045679 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginL.a
+  artifactKey: Guid(5aa4057a8deee1c45a69677125e2c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginL.a using Guid(5aa4057a8deee1c45a69677125e2c241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62128e6e763501648b0c4e3c43715bad') in 0.002252 seconds 
+  Import took 0.005527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008859 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioEventEmitterGizmoDrawer.cs
+  artifactKey: Guid(f09ba26caab55e048a2e596ff75b3eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioEventEmitterGizmoDrawer.cs using Guid(f09ba26caab55e048a2e596ff75b3eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3e246da6c0e4b59b28105ef6227056') in 0.004814 seconds 
+  Import took 0.008166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004794 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/Info.plist
+  artifactKey: Guid(ea043299abb5407419ae750dbbee6564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/Info.plist using Guid(ea043299abb5407419ae750dbbee6564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe1975c970fd3033322b522fab38a29') in 0.002148 seconds 
+  Import took 0.005401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013455 seconds.
+  path: Assets/Map_resource/Scenes/Nature_assets.unity
+  artifactKey: Guid(d38f3b6ddd7390f44b717e1122bb426a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Map_resource/Scenes/Nature_assets.unity using Guid(d38f3b6ddd7390f44b717e1122bb426a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4331805e4590ae1b512f49dcad1309') in 0.005304 seconds 
+  Import took 0.008645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032657 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/src
+  artifactKey: Guid(21a9406360b210946b0f52e8bf5ca333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/src using Guid(21a9406360b210946b0f52e8bf5ca333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c2ea71466068de63acd102dd221b52') in 0.001903 seconds 
+  Import took 0.005222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002708 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle
+  artifactKey: Guid(38f9b2518d435374a9f5cff76cde128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle using Guid(38f9b2518d435374a9f5cff76cde128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab6306a952e00f3ccebdb47bf330340') in 0.005613 seconds 
+  Import took 0.008939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002758 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp
+  artifactKey: Guid(76cc08b21e1f3d04e9cc8fdf3cef9eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp using Guid(76cc08b21e1f3d04e9cc8fdf3cef9eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd754932b60139808c50e90ebc09cfe') in 0.004246 seconds 
+  Import took 0.007415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008901 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/CreateEventPopup.cs
+  artifactKey: Guid(9c9773a32ed4a2b429fd42645175c32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/CreateEventPopup.cs using Guid(9c9773a32ed4a2b429fd42645175c32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0efd35221f42b198fe8562460ed0bc') in 0.004193 seconds 
+  Import took 0.007411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004352 seconds.
+  path: Assets/Plugins/FMOD/images/LevelMeterOff.png
+  artifactKey: Guid(48dc5470d93f669419f294fcd33f7b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/LevelMeterOff.png using Guid(48dc5470d93f669419f294fcd33f7b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e852fcae505a40530a42e3d00318caff') in 0.008285 seconds 
+  Import took 0.011521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.296534 seconds.
+  path: Assets/Plugins/FMOD/images/TransportOpen.png
+  artifactKey: Guid(b0fb832e401d1514a9611735d8d340b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TransportOpen.png using Guid(b0fb832e401d1514a9611735d8d340b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35136472ff5013f4f769d5eaefe1446d') in 0.011066 seconds 
+  Import took 0.014372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009706 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginsimulator.a
+  artifactKey: Guid(86d28a38815714041bf19dc4cc59ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginsimulator.a using Guid(86d28a38815714041bf19dc4cc59ce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4106e5df65006e82b4d3f4676f02d19d') in 0.002090 seconds 
+  Import took 0.005482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004779 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/src/PlatformAndroid.cs
+  artifactKey: Guid(97ba6cc2660c0ca498540d254701057a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/src/PlatformAndroid.cs using Guid(97ba6cc2660c0ca498540d254701057a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b828267203b6d680a1fb40a624fd5be') in 0.004587 seconds 
+  Import took 0.008121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005846 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodL.dll
+  artifactKey: Guid(82bacb4b0f3cc85418d2a1aa2ca57df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/arm/fmodL.dll using Guid(82bacb4b0f3cc85418d2a1aa2ca57df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3535a4ab9af17bc1bc8344376063d4b') in 0.004334 seconds 
+  Import took 0.007524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081945 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/src
+  artifactKey: Guid(a36cddbc75870b64e98ebaac7424553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/src using Guid(a36cddbc75870b64e98ebaac7424553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2cc8750ac0da4c781353e0e68b6708') in 0.002898 seconds 
+  Import took 0.009341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022575 seconds.
+  path: Assets/Plugins/FMOD/src/PlatformGroup.cs
+  artifactKey: Guid(6d049eb0281db9c4abd635ba1c79cb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/PlatformGroup.cs using Guid(6d049eb0281db9c4abd635ba1c79cb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6834d32bf5112ef85349bd90ef416f73') in 0.004460 seconds 
+  Import took 0.007915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102647 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86/libfmod.so
+  artifactKey: Guid(099e80baee62d0c439475fae45e69f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86/libfmod.so using Guid(099e80baee62d0c439475fae45e69f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7281ffe2b716ba94a48cba19dcc8b10b') in 0.005084 seconds 
+  Import took 0.008508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004632 seconds.
+  path: Assets/Plugins/FMOD/src/RuntimeUtils.cs
+  artifactKey: Guid(6e349601408e423499e7b9f75216091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/RuntimeUtils.cs using Guid(6e349601408e423499e7b9f75216091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35556c6e55175ef55db19760760135d3') in 0.005128 seconds 
+  Import took 0.008366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004578 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/SettingsEditor.cs
+  artifactKey: Guid(353a9c870c318f74fa5fdcd475129bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/SettingsEditor.cs using Guid(353a9c870c318f74fa5fdcd475129bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88671ca070536e0ff566ad0c629a6573') in 0.004330 seconds 
+  Import took 0.007554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009614 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Editor/FmodResonanceAudioRoomEditor.cs
+  artifactKey: Guid(935c6716e27bd481e97897dd9e1de595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Editor/FmodResonanceAudioRoomEditor.cs using Guid(935c6716e27bd481e97897dd9e1de595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ce5fbaeeadbbf109bca2ee29f2af60') in 0.007210 seconds 
+  Import took 0.012114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014797 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EventCache.cs
+  artifactKey: Guid(d32cf7c32a3ed8347bac48ef5ed56d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EventCache.cs using Guid(d32cf7c32a3ed8347bac48ef5ed56d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61e31dea14220e38f2b8896e6f4889b') in 0.005569 seconds 
+  Import took 0.008835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005008 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmod.so
+  artifactKey: Guid(159cb3726937c6c498fa49eb627b0d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmod.so using Guid(159cb3726937c6c498fa49eb627b0d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17761b5efcbdf02ff664cc936675e059') in 0.001918 seconds 
+  Import took 0.005478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037352 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/BoltIntegration.cs
+  artifactKey: Guid(f876942dd549ef444a82ab923e75ccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/BoltIntegration.cs using Guid(f876942dd549ef444a82ab923e75ccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034b1f186db17af0080d489a14063c24') in 0.004233 seconds 
+  Import took 0.007360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007058 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/lib/x86_64
+  artifactKey: Guid(f99f1bb123ca3b6449fc49fc745c0fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/lib/x86_64 using Guid(f99f1bb123ca3b6449fc49fc745c0fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494c8027562a3f05c7934fffb0a98abc') in 0.001316 seconds 
+  Import took 0.004539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056239 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/_CodeSignature
+  artifactKey: Guid(72213f6b209c36d4684598fc50967314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudioL.bundle/Contents/_CodeSignature using Guid(72213f6b209c36d4684598fc50967314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f734e354eff4f772122d612a24def180') in 0.001815 seconds 
+  Import took 0.005190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032853 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux
+  artifactKey: Guid(127a9ee57a2a27a439bf9e6b2d5731b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux using Guid(127a9ee57a2a27a439bf9e6b2d5731b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ccb14686808b7ea5f0ed134ac5e28e') in 0.004902 seconds 
+  Import took 0.008351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004583 seconds.
+  path: Assets/Plugins/FMOD/images/AddIcon.png
+  artifactKey: Guid(3300e81f02e64924eb7cb7782713b126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/AddIcon.png using Guid(3300e81f02e64924eb7cb7782713b126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60025dbbc584c86df79e0ccfc4ebc7a') in 0.009429 seconds 
+  Import took 0.013218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035090 seconds.
+  path: Assets/Plugins/FMOD/images/SelectedAlt.png
+  artifactKey: Guid(8ce9b717b1bc7564cbe35664f2f178a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/SelectedAlt.png using Guid(8ce9b717b1bc7564cbe35664f2f178a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ead97e7218ceb8c137dc30a563aae7') in 0.011437 seconds 
+  Import took 0.014776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005151 seconds.
+  path: Assets/Plugins/FMOD/images/SnapshotIcon.png
+  artifactKey: Guid(cf2bba5fb8be7e64ca39979f18eb372a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/SnapshotIcon.png using Guid(cf2bba5fb8be7e64ca39979f18eb372a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df84b282424caea6850af80d389cf833') in 0.010870 seconds 
+  Import took 0.014163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011110 seconds.
+  path: Assets/Plugins/FMOD/images/Preview.png
+  artifactKey: Guid(0793eda432fc5df4ab1291e6baacd771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/Preview.png using Guid(0793eda432fc5df4ab1291e6baacd771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7cfea0d9487624939aae1b73f4ffa0') in 0.012565 seconds 
+  Import took 0.015862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006423 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/src/PlatformWindows.cs
+  artifactKey: Guid(9660e62d6232af242877f0cc2b90c63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/src/PlatformWindows.cs using Guid(9660e62d6232af242877f0cc2b90c63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f25d14e482014129654a53317cc22a0') in 0.004535 seconds 
+  Import took 0.007770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005923 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodstudio.so
+  artifactKey: Guid(e4d6c68823f34e440bfe4e4ecba4c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodstudio.so using Guid(e4d6c68823f34e440bfe4e4ecba4c113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c245a41f2e32f68470935464e8cdd7') in 0.004759 seconds 
+  Import took 0.007986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015735 seconds.
+  path: Assets/Plugins/FMOD/images/BankIcon.png
+  artifactKey: Guid(a7e06068a7215854a84bf5ed8280ed15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/BankIcon.png using Guid(a7e06068a7215854a84bf5ed8280ed15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '998f57fca9f27d6153328f4f656ffb9f') in 0.007993 seconds 
+  Import took 0.011380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025732 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/src/PlatformIOS.cs
+  artifactKey: Guid(bc1f51bc35d549941904cf062bae93a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/src/PlatformIOS.cs using Guid(bc1f51bc35d549941904cf062bae93a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c678f31f23dbbe84e22e86db6ff17e8b') in 0.004933 seconds 
+  Import took 0.009114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135436 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x64
+  artifactKey: Guid(81189b2e21a815647a28e3437c86beb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x64 using Guid(81189b2e21a815647a28e3437c86beb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88e71d2e2ad2b93f710ef3cfc416839') in 0.005168 seconds 
+  Import took 0.008627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005249 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libresonanceaudio.so
+  artifactKey: Guid(bca6f630c310b4945b52486d2ed1da0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libresonanceaudio.so using Guid(bca6f630c310b4945b52486d2ed1da0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78c8b83cbd36864caafcaf32b78d094') in 0.002861 seconds 
+  Import took 0.006219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008953 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Editor
+  artifactKey: Guid(93923a20291353a40809350917bab197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Editor using Guid(93923a20291353a40809350917bab197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'debb06620f08379a70371c24dcc7de15') in 0.001986 seconds 
+  Import took 0.005510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074701 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libfmodstudioL.so
+  artifactKey: Guid(1fc32c2e0a256d24a96b38f0e9137c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/lib/x86_64/libfmodstudioL.so using Guid(1fc32c2e0a256d24a96b38f0e9137c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87f718ed40424b8bd65f888341ccf3c') in 0.005537 seconds 
+  Import took 0.009622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026213 seconds.
+  path: Assets/Plugins/FMOD/src/StudioEventEmitter.cs
+  artifactKey: Guid(9a6610d2e704f1648819acc8d7460285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/StudioEventEmitter.cs using Guid(9a6610d2e704f1648819acc8d7460285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2600b3aca05867fab526ca1923c3f3a') in 0.007869 seconds 
+  Import took 0.011491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056666 seconds.
+  path: Assets/Plugins/FMOD/images/TransportStopButtonOff.png
+  artifactKey: Guid(cafa069c15865d543a07375373f0a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/TransportStopButtonOff.png using Guid(cafa069c15865d543a07375373f0a18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264f1dabed451bb2aef8b3c978486875') in 0.008388 seconds 
+  Import took 0.011578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003592 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/x86
+  artifactKey: Guid(95bcdcdca315ef640bec049de80ee3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/x86 using Guid(95bcdcdca315ef640bec049de80ee3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9feaeaa47b57c24ed3ad34c48c0699') in 0.002208 seconds 
+  Import took 0.006791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005648 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodstudioL.so
+  artifactKey: Guid(85af50ee41bfd9c4fbd8107aee814c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodstudioL.so using Guid(85af50ee41bfd9c4fbd8107aee814c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77fa597382ed910ae66cee4a2a1f86a') in 0.002270 seconds 
+  Import took 0.005709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032699 seconds.
+  path: Assets/Plugins/FMOD/README.txt
+  artifactKey: Guid(081074d1d9d6ab448b88688c3730e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/README.txt using Guid(081074d1d9d6ab448b88688c3730e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56260df728e9c21ba76b3e947d512a82') in 0.009087 seconds 
+  Import took 0.013095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011513 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginsimulatorL.a
+  artifactKey: Guid(649598f6abf894e128aa33102756da99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/lib/libfmodstudiounitypluginsimulatorL.a using Guid(649598f6abf894e128aa33102756da99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0615dc5878bc4e6663d7756b14af0ead') in 0.005640 seconds 
+  Import took 0.008937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004619 seconds.
+  path: Assets/Plugins/FMOD/images/BrowserIcon.png
+  artifactKey: Guid(c783b763d12874147876e070661b66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/BrowserIcon.png using Guid(c783b763d12874147876e070661b66ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c34bc37a2a6fb7eba34d11ac18e7f2') in 0.007914 seconds 
+  Import took 0.011200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009940 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/_CodeSignature
+  artifactKey: Guid(5ff1efee5fe0cee4d969f44cbce4294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/_CodeSignature using Guid(5ff1efee5fe0cee4d969f44cbce4294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12b527c7fea88b94f5d353d31042eac') in 0.001401 seconds 
+  Import took 0.004709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009215 seconds.
+  path: Assets/Plugins/FMOD/FMODUnity.asmdef
+  artifactKey: Guid(0c752da273b17c547ae705acf0f2adf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/FMODUnity.asmdef using Guid(0c752da273b17c547ae705acf0f2adf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68220e79bb70b810607b171c8a0243b') in 0.004344 seconds 
+  Import took 0.007529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.322843 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodL.so
+  artifactKey: Guid(6f74d8321b529d948a7672da4ca54356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libfmodL.so using Guid(6f74d8321b529d948a7672da4ca54356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a388e295bdc1a596149daf05130de40') in 0.002152 seconds 
+  Import took 0.005540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007109 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioGlobalParameterTriggerEditor.cs
+  artifactKey: Guid(0a901681b5558f247b4c227fb425c010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioGlobalParameterTriggerEditor.cs using Guid(0a901681b5558f247b4c227fb425c010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c11f04258f8ea5ba4987180aa900eb6') in 0.004576 seconds 
+  Import took 0.007718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053209 seconds.
+  path: Assets/Plugins/FMOD/images/DiscreteParameterIcon.png
+  artifactKey: Guid(509563e7079a6ed4cbf3b3240327e702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/DiscreteParameterIcon.png using Guid(509563e7079a6ed4cbf3b3240327e702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14edff32e1c16f38845cdc13a370b667') in 0.010452 seconds 
+  Import took 0.014992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013088 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/MacOS
+  artifactKey: Guid(4c7ef954631945d4981884adcc603e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/MacOS using Guid(4c7ef954631945d4981884adcc603e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea3b77ef743c6d3f1540193c8c1c98d') in 0.001643 seconds 
+  Import took 0.005414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002802 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/arm
+  artifactKey: Guid(0cddbb9418c24f44d87fc49581769340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/arm using Guid(0cddbb9418c24f44d87fc49581769340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99608afbc397edc6305c51bb96f2f04') in 0.004366 seconds 
+  Import took 0.007709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011693 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EventBrowser.cs
+  artifactKey: Guid(5332ad2baabb58844975479e906001c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EventBrowser.cs using Guid(5332ad2baabb58844975479e906001c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0340b3650216727faccec8cb3a213f3') in 0.004588 seconds 
+  Import took 0.007731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017444 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginsimulatorL.a
+  artifactKey: Guid(9aed261b7fbc24099a9b58cbbf374583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounitypluginsimulatorL.a using Guid(9aed261b7fbc24099a9b58cbbf374583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bf77993843c3e2b29e2c5d956ca370') in 0.001950 seconds 
+  Import took 0.005128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021966 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Goblin/Goblin 2.controller
+  artifactKey: Guid(f0d53a1e5eb8b7c409d63f24e04f41e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Goblin/Goblin 2.controller using Guid(f0d53a1e5eb8b7c409d63f24e04f41e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f0d2b6ea9f3d4cf3b6bdf9847001ac') in 0.004890 seconds 
+  Import took 0.008111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017093 seconds.
+  path: Assets/Plugins/FMOD/images/CopyIcon.png
+  artifactKey: Guid(6e164dcb85fc8ad4b9ab2f1e883862d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/CopyIcon.png using Guid(6e164dcb85fc8ad4b9ab2f1e883862d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cf392c1594f0e5aae67251b68c305a') in 0.007660 seconds 
+  Import took 0.010879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015995 seconds.
+  path: Assets/Plugins/FMOD/src/BankRefAttribute.cs
+  artifactKey: Guid(a8ab5f38e7776644297d8b3687c39b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/BankRefAttribute.cs using Guid(a8ab5f38e7776644297d8b3687c39b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '135274d4ebcfd4b5e03e0b28daf748be') in 0.005399 seconds 
+  Import took 0.008617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005004 seconds.
+  path: Assets/Plugins/FMOD/LICENSE.TXT
+  artifactKey: Guid(f7ef0e67212d94a4bb4181e439c616c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/LICENSE.TXT using Guid(f7ef0e67212d94a4bb4181e439c616c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d0b86d448d5794b1014bfa2ad13eeb') in 0.006359 seconds 
+  Import took 0.009728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009210 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos/src/PlatformAppleTV.cs
+  artifactKey: Guid(17eea195bdfbf014e91ba7620ee491f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos/src/PlatformAppleTV.cs using Guid(17eea195bdfbf014e91ba7620ee491f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d26930ebe9e44af899a8489f0f1bd36') in 0.004741 seconds 
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009030 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/ParamRefDrawer.cs
+  artifactKey: Guid(ea88808aa26cd614db1c5c1dcbb14d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/ParamRefDrawer.cs using Guid(ea88808aa26cd614db1c5c1dcbb14d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de2920c067dbc1eb5d679dad8dfe3e2') in 0.004422 seconds 
+  Import took 0.007633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022068 seconds.
+  path: Assets/Plugins/FMOD/src/PlatformPlayInEditor.cs
+  artifactKey: Guid(335f0a4b26fb46942858ea029e030d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/PlatformPlayInEditor.cs using Guid(335f0a4b26fb46942858ea029e030d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b79448e19cad440b502302ab5ae3861') in 0.004952 seconds 
+  Import took 0.008190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023905 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EditorParamRef.cs
+  artifactKey: Guid(fecb8ef7f94ca804a8ab72049b86782e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EditorParamRef.cs using Guid(fecb8ef7f94ca804a8ab72049b86782e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b788bdc8497cb90711f2fe1025a7a5fd') in 0.005700 seconds 
+  Import took 0.009469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108012 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Goblin/Dead.anim
+  artifactKey: Guid(589218308bb447943be5e252b5c6581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Goblin/Dead.anim using Guid(589218308bb447943be5e252b5c6581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b068fbe928101b125e4952d9531caef6') in 0.006253 seconds 
+  Import took 0.009840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010459 seconds.
+  path: Assets/Plugins/FMOD/images/FolderIconOpen.png
+  artifactKey: Guid(d2b54e4f7f80b9448a41d3c5985f5672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/FolderIconOpen.png using Guid(d2b54e4f7f80b9448a41d3c5985f5672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e408e322ee7db1120b2540f35332f2d') in 0.007958 seconds 
+  Import took 0.011877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034658 seconds.
+  path: Assets/Plugins/FMOD/images/FMODLogoBlack.png
+  artifactKey: Guid(36e46b3c334e47e41a0b4ff2f26905ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/FMODLogoBlack.png using Guid(36e46b3c334e47e41a0b4ff2f26905ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec20849ec9fb4a233532f7dd7b08651') in 0.009333 seconds 
+  Import took 0.012785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004248 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5
+  artifactKey: Guid(2e8b0cce3730fcf4e996e9cd562a9858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5 using Guid(2e8b0cce3730fcf4e996e9cd562a9858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb70c3e0459f659249d532b6fae81cf') in 0.004374 seconds 
+  Import took 0.007907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013740 seconds.
+  path: Assets/Plugins/FMOD/images/Border.png
+  artifactKey: Guid(40848578d1961334d820821bec6175a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/Border.png using Guid(40848578d1961334d820821bec6175a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5ed7328159594ca12da8b92650724d') in 0.011830 seconds 
+  Import took 0.015130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007097 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll
+  artifactKey: Guid(9f61d974bd2804b4ca8d0f6f3b33c752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll using Guid(9f61d974bd2804b4ca8d0f6f3b33c752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5da4f2810d81ef7a4ba2c1dcda389ee') in 0.001439 seconds 
+  Import took 0.004604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041528 seconds.
+  path: Assets/Plugins/FMOD/src/FMODEventTrack.cs
+  artifactKey: Guid(133253f56854570409c222a87786b263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/FMODEventTrack.cs using Guid(133253f56854570409c222a87786b263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3d4c836d8c235e98d4a61175a39bf3') in 0.004768 seconds 
+  Import took 0.008663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004488 seconds.
+  path: Assets/Plugins/FMOD/images/FMODLogoWhite.png
+  artifactKey: Guid(8fd8ccb8d7e81d943b28ea7975c7185d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/FMODLogoWhite.png using Guid(8fd8ccb8d7e81d943b28ea7975c7185d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b392102e876f453a493c18cb0b1b7d3f') in 0.008438 seconds 
+  Import took 0.011858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069815 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll
+  artifactKey: Guid(210307b4541776d49bcc77ac2b9b2002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll using Guid(210307b4541776d49bcc77ac2b9b2002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad341fde3e6fbcaa3905fa905949dc5c') in 0.001503 seconds 
+  Import took 0.004793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013712 seconds.
+  path: Assets/char/Aniamtion/Warrior.controller
+  artifactKey: Guid(312496b25d842af4a938e96c7d5aaee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/char/Aniamtion/Warrior.controller using Guid(312496b25d842af4a938e96c7d5aaee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3ff5d588a8ee8ccc7357e95b82ff46') in 0.022620 seconds 
+  Import took 0.026092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055970 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libresonanceaudio.a
+  artifactKey: Guid(bc5d15d8f7607af478126b815040cbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libresonanceaudio.a using Guid(bc5d15d8f7607af478126b815040cbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8f393a00403aa5e9032c509bf9c2a7') in 0.001771 seconds 
+  Import took 0.005016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005862 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libresonanceaudio.so
+  artifactKey: Guid(2bd9aca31d63ca248bf159e7562a3609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a/libresonanceaudio.so using Guid(2bd9aca31d63ca248bf159e7562a3609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fe59d19970ab55b00273ee426914f5') in 0.002082 seconds 
+  Import took 0.005387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003610 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts
+  artifactKey: Guid(05a6a02c28ee77a49b6fcadf67aff3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts using Guid(05a6a02c28ee77a49b6fcadf67aff3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b784d1e53ea8da2f06ff7a7b0b3687') in 0.013022 seconds 
+  Import took 0.016512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003049 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/src
+  artifactKey: Guid(e3438d4d60981a7489133b13b11958ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/src using Guid(e3438d4d60981a7489133b13b11958ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e794cc85d61873a15099631b1072b460') in 0.006217 seconds 
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016947 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib/libfmodstudiounityplugin.bc
+  artifactKey: Guid(254f6ee9df4d3024d9c550104ea5feaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib/libfmodstudiounityplugin.bc using Guid(254f6ee9df4d3024d9c550104ea5feaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb6ca9ee2aedf03d348fd33bc6f5a78') in 0.003172 seconds 
+  Import took 0.008265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085998 seconds.
+  path: Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FmodResonanceAudioRoom.cs
+  artifactKey: Guid(6b0c5e63920ee4f55b7ec5248525af4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons/ResonanceAudio/Scripts/FmodResonanceAudioRoom.cs using Guid(6b0c5e63920ee4f55b7ec5248525af4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c83c06f6810fdb9a94ef4ffa5a950cf') in 0.005083 seconds 
+  Import took 0.008500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004851 seconds.
+  path: Assets/Plugins/FMOD/images/ArrowIcon.png
+  artifactKey: Guid(01c0101f357b9da4ba78b8f58c290f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/ArrowIcon.png using Guid(01c0101f357b9da4ba78b8f58c290f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c6111ae9ddd686f7b7e2bd24c80463') in 0.009524 seconds 
+  Import took 0.013109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077179 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents
+  artifactKey: Guid(2879b055c8551c44caa264ce7208ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents using Guid(2879b055c8551c44caa264ce7208ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60332564b013cf374dca24a99eb94332') in 0.001475 seconds 
+  Import took 0.004993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.263261 seconds.
+  path: Assets/Plugins/FMOD/platforms/linux/src/PlatformLinux.cs
+  artifactKey: Guid(73549a74f689f0849a8271d9e908c514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/linux/src/PlatformLinux.cs using Guid(73549a74f689f0849a8271d9e908c514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b372e04d3022e3d1c04fcefbea2c7f9c') in 0.005011 seconds 
+  Import took 0.008226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003424 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a
+  artifactKey: Guid(54305e5cd6046514181f9b21fb0c44ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/arm64-v8a using Guid(54305e5cd6046514181f9b21fb0c44ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928617c20d65662461a8a9411fad4eac') in 0.005801 seconds 
+  Import took 0.009722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005665 seconds.
+  path: Assets/Plugins/FMOD/images/Delete.png
+  artifactKey: Guid(196080340db65c44883dd3f599556fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/Delete.png using Guid(196080340db65c44883dd3f599556fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5a2e06d90f04943850a180d2fed377') in 0.007977 seconds 
+  Import took 0.011228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008764 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libresonanceaudiosimulator.a
+  artifactKey: Guid(5ad1791b3b48a4ba39c30a2b4f438486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libresonanceaudiosimulator.a using Guid(5ad1791b3b48a4ba39c30a2b4f438486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a0659fb856e9e536a7fcc1c7e52522') in 0.005498 seconds 
+  Import took 0.009201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004404 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x86
+  artifactKey: Guid(fa5c1a42d40246b4a83af1e8192b6bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x86 using Guid(fa5c1a42d40246b4a83af1e8192b6bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4776b81b539845e9b608d96cd847cf3') in 0.001724 seconds 
+  Import took 0.005405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004613 seconds.
+  path: Assets/Plugins/FMOD/src/PlatformDefault.cs
+  artifactKey: Guid(9587379c972e4a54da1949613f11e1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/PlatformDefault.cs using Guid(9587379c972e4a54da1949613f11e1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7322b1135c43bbba1b88250786bbb6a') in 0.004804 seconds 
+  Import took 0.008163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095868 seconds.
+  path: Assets/Plugins/FMOD/src/Platform.cs
+  artifactKey: Guid(e7df340ba8041134888b271ea2124fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Platform.cs using Guid(e7df340ba8041134888b271ea2124fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcedfe996a3476fc29c0f177416b54b') in 0.005812 seconds 
+  Import took 0.009182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005155 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodstudio.so
+  artifactKey: Guid(cf01ad74bd6e5df46996c61b81ba590c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodstudio.so using Guid(cf01ad74bd6e5df46996c61b81ba590c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4c28ed5a556da3739a2f1fd153c22f') in 0.005201 seconds 
+  Import took 0.008510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032150 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodL.dll
+  artifactKey: Guid(243e8fba07980f74b8d49ef345dadd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodL.dll using Guid(243e8fba07980f74b8d49ef345dadd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2cde40bd4722c11a50a45c7d7e0215') in 0.001764 seconds 
+  Import took 0.005174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005341 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/MacOS/resonanceaudio
+  artifactKey: Guid(2e2968e9faea7be4ea2b24d5bd144749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle/Contents/MacOS/resonanceaudio using Guid(2e2968e9faea7be4ea2b24d5bd144749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ff6baecb02fdbb6d21a42953f9d848') in 0.004959 seconds 
+  Import took 0.008298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005221 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodstudio.dll
+  artifactKey: Guid(29800d7cce1a5fc46ae163c8a68d8346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodstudio.dll using Guid(29800d7cce1a5fc46ae163c8a68d8346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59336897a1f7e26d82d73b9ac0df527') in 0.005960 seconds 
+  Import took 0.009633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005547 seconds.
+  path: Assets/Plugins/FMOD/src/Settings.cs
+  artifactKey: Guid(eef8d824ea7b63742966aaa0e94ac383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Settings.cs using Guid(eef8d824ea7b63742966aaa0e94ac383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3de676981b96c0e92e3eeafe5fb5a70') in 0.005409 seconds 
+  Import took 0.009075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005253 seconds.
+  path: Assets/Plugins/FMOD/images/PreviewEmitter.png
+  artifactKey: Guid(9519043db3741934fa01455c47683e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/PreviewEmitter.png using Guid(9519043db3741934fa01455c47683e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d25514286b7c7c48568060f64ffba36') in 0.007474 seconds 
+  Import took 0.011018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003523 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios
+  artifactKey: Guid(56ef07f8e7caf5f4589a020791b532cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios using Guid(56ef07f8e7caf5f4589a020791b532cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292d190d71dda9adca6fcf2633dbd29a') in 0.004597 seconds 
+  Import took 0.008109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002815 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle
+  artifactKey: Guid(04e20ff877bea8747ae257229c720dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/resonanceaudio.bundle using Guid(04e20ff877bea8747ae257229c720dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa74850b79f324cc790cd27f22886d02') in 0.005208 seconds 
+  Import took 0.008763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002799 seconds.
+  path: Assets/Plugins/FMOD/platforms/tvos
+  artifactKey: Guid(b878fb13ea2d16a40b79b4400b5149ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/tvos using Guid(b878fb13ea2d16a40b79b4400b5149ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05390e9d3728856378e5dbe745c4e00') in 0.004842 seconds 
+  Import took 0.008151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004923 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces/Animations/Skeleton/Idle_0.controller
+  artifactKey: Guid(7052c8b4bb06f644ea75e62b72afedbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces/Animations/Skeleton/Idle_0.controller using Guid(7052c8b4bb06f644ea75e62b72afedbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2852012f2554d03b8bf098df63bfb61a') in 0.061769 seconds 
+  Import took 0.065129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005148 seconds.
+  path: Assets/Plugins/FMOD/images/ContinuousParameterIcon.png
+  artifactKey: Guid(b92803770616fc747bc3c40ffaec0a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/images/ContinuousParameterIcon.png using Guid(b92803770616fc747bc3c40ffaec0a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ac8c54ea5a2e502a4275b81abc936f') in 0.008490 seconds 
+  Import took 0.012129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039207 seconds.
+  path: Assets/char/Aniamtion/Warrior_Sheet-Effect_0.controller
+  artifactKey: Guid(9cdb2e2eecfa34143a08bb67fbfe2970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/char/Aniamtion/Warrior_Sheet-Effect_0.controller using Guid(9cdb2e2eecfa34143a08bb67fbfe2970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae1c74a3936427cb7599313f061a3d8') in 0.007377 seconds 
+  Import took 0.010929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112950 seconds.
+  path: Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle
+  artifactKey: Guid(4f94b6752a0d5ad489274786cbfbc6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle using Guid(4f94b6752a0d5ad489274786cbfbc6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f824b5a1fa5e78a305b29b4c39c4c64') in 0.004835 seconds 
+  Import took 0.008148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002643 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(9a92017059267bf4dad529bd5ef60b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(9a92017059267bf4dad529bd5ef60b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2119a3c617e833c2111e20b2d33b77') in 0.004419 seconds 
+  Import took 0.008220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037832 seconds.
+  path: Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounityplugin.a
+  artifactKey: Guid(79c89db1833831740aee981c0d90d2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/ios/lib/libfmodstudiounityplugin.a using Guid(79c89db1833831740aee981c0d90d2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74d6d3643a3616538642c7f2fc1ec54') in 0.001906 seconds 
+  Import took 0.005013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003032 seconds.
+  path: Assets/Monsters Creatures Fantasy/Resouces
+  artifactKey: Guid(7335f601aa50aec4988a73da0e3b83b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Resouces using Guid(7335f601aa50aec4988a73da0e3b83b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cae221c57a41daf0cfef34b984d3771') in 0.004630 seconds 
+  Import took 0.008143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004650 seconds.
+  path: Assets/Plugins/FMOD/platform_ios.mm
+  artifactKey: Guid(fc7eb3c9194584004bdf04921e5cb057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platform_ios.mm using Guid(fc7eb3c9194584004bdf04921e5cb057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9bf7ddfabbe73cfeb931cd944daa51') in 0.006577 seconds 
+  Import took 0.010450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002927 seconds.
+  path: Assets/Plugins/FMOD/addons
+  artifactKey: Guid(850b7bf08237b964b8b005fe703774f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/addons using Guid(850b7bf08237b964b8b005fe703774f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804783f3ad53a30a3f2c5eb9c20834ae') in 0.004374 seconds 
+  Import took 0.007678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004396 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/EventManager.cs
+  artifactKey: Guid(1fc38201a5edb994c874a4a61e96053b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/EventManager.cs using Guid(1fc38201a5edb994c874a4a61e96053b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a755fdf664a74b2722fa4c804ea35ba2') in 0.005792 seconds 
+  Import took 0.009189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006877 seconds.
+  path: Assets/Plugins/FMOD/platforms/win
+  artifactKey: Guid(c66754bc90bcdd74dbacaa9bc9adf48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win using Guid(c66754bc90bcdd74dbacaa9bc9adf48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021b113b81e9a342297b397297e14ade') in 0.004226 seconds 
+  Import took 0.007411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009348 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodstudio.dll
+  artifactKey: Guid(ecb0cc0019197154b9baeef623b6ec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x86/fmodstudio.dll using Guid(ecb0cc0019197154b9baeef623b6ec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad5ad2fa1d0c0251f9eb9b95099b03d') in 0.001373 seconds 
+  Import took 0.004457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092194 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/FMODEventTrackEditor.cs
+  artifactKey: Guid(31e1c5e7d70e58f45ae86764f7c3ec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/FMODEventTrackEditor.cs using Guid(31e1c5e7d70e58f45ae86764f7c3ec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdf9d51e5345fcc3d5c05133680a300') in 0.006276 seconds 
+  Import took 0.011052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006677 seconds.
+  path: Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodstudioL.dll
+  artifactKey: Guid(813ca429588de5d40b5c8a184a15bcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/uwp/lib/x64/fmodstudioL.dll using Guid(813ca429588de5d40b5c8a184a15bcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefc90bc57fd9419deb721bc4fc54189') in 0.001693 seconds 
+  Import took 0.005249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007385 seconds.
+  path: Assets/Plugins/FMOD/platforms/android
+  artifactKey: Guid(ca9461535f8115a4fb8293c748bcd2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android using Guid(ca9461535f8115a4fb8293c748bcd2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b61ed8fc2e251ea4ca2bf2713046a3b') in 0.004268 seconds 
+  Import took 0.007473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011890 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib/2.0.19/libfmodstudioL.a
+  artifactKey: Guid(072de5b62d53c944fa2bae4cc3cd1754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib/2.0.19/libfmodstudioL.a using Guid(072de5b62d53c944fa2bae4cc3cd1754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38805e525113721dfa594d58ae4046a0') in 0.001902 seconds 
+  Import took 0.005386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006607 seconds.
+  path: Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudio.dll
+  artifactKey: Guid(684d4d47a018ed14080e15f4c99b8e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudio.dll using Guid(684d4d47a018ed14080e15f4c99b8e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9802084fc27909fa95719e4e30dbc4') in 0.001463 seconds 
+  Import took 0.004557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025273 seconds.
+  path: Assets/Plugins/FMOD/src/PlatformMobileHigh.cs
+  artifactKey: Guid(93a382382f106584e8f8f62412fee177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/PlatformMobileHigh.cs using Guid(93a382382f106584e8f8f62412fee177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfb19f8bf81a56cab0b09f06b858425') in 0.004256 seconds 
+  Import took 0.007440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038883 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/StudioParameterTriggerEditor.cs
+  artifactKey: Guid(dc94d213814ef1a42b0ca8ee00dd4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/StudioParameterTriggerEditor.cs using Guid(dc94d213814ef1a42b0ca8ee00dd4728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03c69ba1493d1beeb67b67bcc87f0d3') in 0.004598 seconds 
+  Import took 0.007958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.312999 seconds.
+  path: Assets/Plugins/FMOD/src/Editor
+  artifactKey: Guid(bdb2bdc82b47a634b803bb658c6e312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor using Guid(bdb2bdc82b47a634b803bb658c6e312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a186090116a484c4f42039b674b307bd') in 0.004889 seconds 
+  Import took 0.008992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007344 seconds.
+  path: Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodstudioL.so
+  artifactKey: Guid(8de47c7524234f64fb6a7d661154b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/android/lib/armeabi-v7a/libfmodstudioL.so using Guid(8de47c7524234f64fb6a7d661154b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e0d5d13822971b63a42495c3725402') in 0.001817 seconds 
+  Import took 0.005046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128301 seconds.
+  path: Assets/Plugins/FMOD/src/Editor/FindAndReplace.cs
+  artifactKey: Guid(a3d0ed60438564241a4e62b152836893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/Editor/FindAndReplace.cs using Guid(a3d0ed60438564241a4e62b152836893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a38659f1651d5ce5111508e1329dc0') in 0.004539 seconds 
+  Import took 0.007790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012601 seconds.
+  path: Assets/Plugins/FMOD/src/CodeGeneration.cs
+  artifactKey: Guid(438155f6a2d689e45b5cc7701d412b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/src/CodeGeneration.cs using Guid(438155f6a2d689e45b5cc7701d412b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d736b2043309a1f0fc0e481f081d902') in 0.005622 seconds 
+  Import took 0.010003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025863 seconds.
+  path: Assets/Plugins/FMOD/platforms/html5/lib/libfmodstudiounitypluginL.bc
+  artifactKey: Guid(2dab3dda051681d4a9ea3ed67cb9877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/FMOD/platforms/html5/lib/libfmodstudiounitypluginL.bc using Guid(2dab3dda051681d4a9ea3ed67cb9877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55736136479b0bcd73c89dcf68abd90a') in 0.002512 seconds 
+  Import took 0.006900 seconds .
+
